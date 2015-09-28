@@ -1,0 +1,21 @@
+body {
+  font: 300 19px/35px 'Sorts Mill Goudy', serif;
+  background-image: url('tex2res2_light.png')
+}
+
+h2 {
+  font-size: 29px;
+  line-height: 40px;
+}
+
+#container {
+  max-width: 600px;
+  margin: auto;
+  padding: 50px 0 0 0;
+  text-align: center;
+}
+
+#container .separator {
+  margin: 50px 0 0 0;
+  border-bottom: 1px solid #333;
+}
