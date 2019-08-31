@@ -8,6 +8,10 @@ h2 {
   line-height: 40px;
 }
 
+img {
+  width: 256px;
+}
+
 #container {
   max-width: 600px;
   margin: auto;
